@@ -10,3 +10,7 @@ This repository contains my assignments
 [Graded_assignment1](https://github.com/marijnnaalden/assignments/blob/master/Graded_assignment1.ipynb)
 
 [Graded_assignment_2](https://github.com/marijnnaalden/assignments/blob/master/Graded_assignment_2.ipynb)
+
+[Exam_student](https://github.com/marijnnaalden/assignments/blob/master/Exam_student.ipynb)
+
+[exam_june_7_2018](https://github.com/marijnnaalden/assignments/blob/master/exam_june_7_2018.ipynb)
